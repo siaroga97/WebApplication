@@ -1,7 +1,7 @@
----------------------------------------------
-.iml
-.DS_Store/
+logs/*
+!.gitkeep
 node_modules/
-.idea/
-out/
----------------------------------------------
+bower_components/
+tmp
+.DS_Store
+.idea
